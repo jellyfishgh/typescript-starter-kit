@@ -1,0 +1,10 @@
+{
+    "files": [
+        "src/app.ts",
+        "src/greet.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es2015"
+    }
+}
